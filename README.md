@@ -25,6 +25,7 @@ A curated list of awesome resources related to Outer Space
 * [The National Space Society’s (NSS) annual International Space Development Conference® (ISDC®)](http://isdc2015.nss.org/wordpress/) - This conference has attracted up to 1300 attendees from over 20 countries, with ISDC® 2014 bringing together over 1000 attendees. ISDC® also features plenary talks, keynote speakers, multi-disciplinary tracks, exhibit hall, design contests, book signing, and more.
 * [American Institute of Aeronautics and Astronautics](http://www.aiaa.org/events/) - List of worldwide space events.
 * [The International Conference for Aerospace Experts, Academics, Military Personnel, and Industry Leaders](https://www.aeroconf.org/) - The international IEEE Aerospace Conference, with AIAA and PHM Society as technical cosponsors, is organized to promote interdisciplinary understanding of aerospace systems, their underlying science and technology, and their applications to government and commercial endeavors.
+* [Spaceflight Now](http://spaceflightnow.com/launch-schedule/) - A regularly updated listing of planned missions from spaceports around the globe.
 
 ### Software
 * [NASA Software Catalogue](https://software.nasa.gov) - An extensive portfolio of software products for a wide variety of technical applications, with varying licenses ranging from Open Source to Government Only.
